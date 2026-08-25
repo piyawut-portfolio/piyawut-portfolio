@@ -1,9 +1,20 @@
 # Piyawut Boonpeng
 
+<table>
+<tr>
+<td width="160">
+<img src="assets/profile.jpg" width="140" alt="Piyawut Boonpeng" />
+</td>
+<td>
+
 **Senior Programmer · Full Stack (Laravel / React) · Enterprise integration**  
 Bangkok · Open to full-time roles · Available within 30 days
 
 [LinkedIn](https://www.linkedin.com/in/piyawut-boonpeng-513840429/) · piyawut.b@hotmail.com
+
+</td>
+</tr>
+</table>
 
 I design and ship the **integration layer** between sales, warehouse, finance, banks, and retail partners — not only CRUD screens.
 
