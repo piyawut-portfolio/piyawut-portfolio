@@ -1,0 +1,24 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.key
+*.crt
+*.zip
+*.rar
+vendor/
+node_modules/
+.idea/
+.vscode/
+*.sql
+*.dump
+samples/real/
+
+# กันสำเนาโฟลเดอร์งานบริษัทหลุดเข้ามา (ชื่อโปรเจกต์ภายใน)
+spccore-dev/
+openapi/
+ws.sahapat.com/
+ops-console/
+**/spccore-dev/**
+**/ws.sahapat.com/**
