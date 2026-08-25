@@ -1,8 +1,10 @@
 # เคส 1 — Integration hub (Laravel 13)
 
-**บริบท:** Senior Programmer · บมจ. สหพัฒนพิบูล · 2026  
-**บทบาท:** ผู้เขียนหลักของแพลตฟอร์มเชื่อมระบบรุ่นใหม่  
-**สแต็ก:** PHP 8.4, Laravel 13, OpenAPI 3.0, MySQL, Oracle (มรดก), Docker, GitLab CI, Sanctum
+| | |
+|---|---|
+| **Role** | Primary author · Senior Programmer · Saha Pathanapibul PCL · 2026 |
+| **Stack** | PHP 8.4, Laravel 13, OpenAPI 3.0, MySQL, Oracle (legacy), Docker, GitLab CI, Sanctum |
+| **For hiring** | Shows API design, ERP/WMS jobs, file integrations, and CI — without publishing employer code |
 
 ## ปัญหา
 

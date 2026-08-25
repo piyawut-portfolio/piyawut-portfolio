@@ -1,7 +1,10 @@
 # เคส 3 — API การเงินและบิลเพย์เมนต์
 
-**บริบท:** 2023–2026 · ผู้เขียนหลักของฮับ Laravel 8  
-**สแต็ก:** Laravel 8, Oracle, MySQL, QR, REST แบบ inquiry/confirm
+| | |
+|---|---|
+| **Role** | Primary author · Laravel 8 hub · 2023–2026 |
+| **Stack** | Laravel 8, Oracle, MySQL, QR, REST inquiry/confirm |
+| **For hiring** | Payments + AR reconciliation experience; contracts and payloads stay private |
 
 ## ปัญหา
 

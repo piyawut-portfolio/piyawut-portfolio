@@ -1,7 +1,10 @@
 # เคส 2 — Operations console (React + Laravel)
 
-**บริบท:** 2026 · ผู้เขียนหลัก · สร้างระบบใหม่ (greenfield)  
-**สแต็ก:** React 19, TypeScript, Vite, TanStack Query, Laravel 13, Sanctum, Docker, MySQL
+| | |
+|---|---|
+| **Role** | Primary author · greenfield · 2026 |
+| **Stack** | React 19, TypeScript, Vite, TanStack Query, Laravel 13, Sanctum, Docker, MySQL |
+| **For hiring** | Full-stack proof: RBAC, BFF, ops UX — no employer UI source |
 
 ## ปัญหา
 

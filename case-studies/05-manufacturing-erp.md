@@ -1,6 +1,10 @@
 # เคส 5 — ERP โรงงาน (PowerBuilder / Oracle)
 
-**บริบท:** บ. ไอพีดี แพคเกจจิ้ง · Programmer 2014–2019 แล้ว System Analyst 2019–2021
+| | |
+|---|---|
+| **Role** | Programmer 2014–2019 · System Analyst 2019–2021 · IPD Packaging |
+| **Stack** | PowerBuilder, Oracle / PL/SQL |
+| **For hiring** | ERP domain depth before web/API work; no PowerBuilder source here |
 
 ## ปัญหา
 

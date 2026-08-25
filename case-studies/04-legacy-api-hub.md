@@ -1,7 +1,10 @@
 # เคส 4 — ฮับ API องค์กรที่วิ่งมานาน
 
-**บริบท:** เข้าร่วม 2021 (แพลตฟอร์มมีมาก่อน) · ผู้ร่วมพัฒนาหลัก  
-**สแต็ก:** Laravel 5.2, Oracle, MySQL, Swagger 2.0
+| | |
+|---|---|
+| **Role** | Lead contributor from 2021 (platform existed earlier) |
+| **Stack** | Laravel 5.2, Oracle, MySQL, Swagger 2.0 |
+| **For hiring** | Production compatibility and versioning — not a greenfield-only profile |
 
 ## ปัญหา
 
